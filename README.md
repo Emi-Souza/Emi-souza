@@ -15,6 +15,8 @@
 <!--   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emi-souza/emi-souza/output/github-contribution-grid-snake.svg"> -->
 </picture>
 
+## Badges
+
  <div>
   <a href = "mailto:emillylimadesouza627@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/emi_y.d" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,7 +24,7 @@
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-## Linguagens
+## 
 
 <img 
     align="left" 
