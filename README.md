@@ -1,6 +1,6 @@
-## Hii, I'm Emily Souza
+## Oii, eu sou Emi-Souza
 
-## Statistics
+## Estatísticas
 <div align="left" >
   <a href="https://github.com/emi-souza">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emi-souza&show_icons=true&theme=holi&include_all_commits=true&count_private=true" />
@@ -22,7 +22,7 @@
   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
-## Languages
+## Linguagens
 
 <img 
     align="left" 
