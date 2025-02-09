@@ -1,6 +1,6 @@
 ## Hii, I'm ☆Emilly☆
 
-## Minhas estatísticas 
+## 📉 Estatísticas 
 <div align="left" >
   <a href="https://github.com/emi-souza">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emi-souza&show_icons=true&theme=holi&include_all_commits=true&count_private=true" />
@@ -15,7 +15,7 @@
 <!--   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emi-souza/emi-souza/output/github-contribution-grid-snake.svg"> -->
 </picture>
 
-## Medias Sociais
+## Contato:
 
  <div>
   <a href = "mailto:emillylimadesouza627@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
@@ -24,7 +24,7 @@
 <!--   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" target="_blank"></a>  -->
 </div>
 
-## Linguagens
+## Code & Ferramentas
 
 <img 
     align="left" 
