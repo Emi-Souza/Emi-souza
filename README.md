@@ -2,7 +2,7 @@
 
 ## 📉 Estatísticas 
 <div align="left" >
-  <a href="https://github.com/emi-souza">
+  <a href="https://github.com/Emi-Souza">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=emi-souza&show_icons=true&theme=holi&include_all_commits=true&count_private=true" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emi-souza&layout=compact&langs_count=7&theme=holi"/>
 </div>
