@@ -1,4 +1,4 @@
-## Hii, I'm ☆Emilly☆
+## Hii, I'm  the ☆Emilly☆
 
 ## 📉 Estatísticas 
 <div align="left" >
