@@ -21,7 +21,7 @@
   <a href = "mailto:emillylimadesouza627@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/emi___y.d" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="https://https://discord.com/api/webhooks/1343779134731718706/3zKPQy1bnGzooFu-DkrEcljG778BEzF-dKngjClqdKHXZfjdhldot4GhgeeJu0TLfCgT" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
 
 ## Code & Ferramentas
